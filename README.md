@@ -45,9 +45,7 @@ Follow these steps to get the project up and running on your local machine:
 
 ## Usage
 
-    ```bash
     npm run dev
-    ```
 
 ## Contributing
 
