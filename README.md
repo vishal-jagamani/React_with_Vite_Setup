@@ -19,7 +19,7 @@ This project is set up to help you get started with React and Vite. You can use 
 Before you begin, ensure you have the following installed on your system:
 
 -   Node.js and npm (Node Package Manager)
--   Git (optional)
+-   Git
 
 ## Installation
 
