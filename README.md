@@ -49,4 +49,4 @@ Follow these steps to get the project up and running on your local machine:
 
 ## Contributing
 
-Feel free to contribute to this project by submitting pull requests or reporting issues.
+Feel free to contribute to this project by submitting pull requests or reporting issues to 'dev' branch.
